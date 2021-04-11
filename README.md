@@ -1,2 +1,2 @@
 # Personalization
-All user-specific personalization scripts
+The repo containse all user-specific personalization scripts.
